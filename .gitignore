@@ -1,0 +1,12 @@
+# Исходные папки с оригиналами (не нужны на сайте)
+images/картины/
+images/мигуниты/
+images/стены муралы/
+images/фрески/
+images/о нас/
+images/murals/IMG_8326 copy.jpg
+
+# Системные файлы
+.DS_Store
+*.DS_Store
+serve.py
