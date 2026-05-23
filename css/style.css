@@ -339,9 +339,9 @@ p { max-width: 64ch; }
 .section-card-body {
   padding: 1rem 0 0.2rem;
   display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 1rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.4rem;
 }
 /* Hide label and paragraph — keep only title + arrow */
 .section-card-body > .label,
